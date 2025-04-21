@@ -1,0 +1,48 @@
+/* Add these styles to your App.css file */
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.container {
+  flex: 1;
+}
+
+.blog-form-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.blog-details {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.card {
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.btn-group {
+  flex-wrap: wrap;
+  gap: 5px;
+}
+
+.img-thumbnail {
+  max-width: 100%;
+  height: auto;
+}
+
+footer {
+  margin-top: auto;
+}

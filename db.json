@@ -1,0 +1,104 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "category": "Technology",
+      "title": "The Future of Artificial Intelligence",
+      "blogger_name": "Alex Johnson",
+      "image": "https://www.powertrafic.fr/wp-content/uploads/2023/04/image-ia-exemple.png",
+      "description": "Artificial Intelligence is transforming industries at an unprecedented pace. From healthcare to finance, AI applications are becoming more sophisticated. In this article, we explore the latest advancements in machine learning algorithms and how they're being implemented in real-world scenarios. The future holds even more promise with the development of general AI that can perform any intellectual task that a human can.",
+      "date": "2023-06-15T10:30:00Z"
+    },
+    {
+      "id": "2",
+      "category": "Health",
+      "title": "10 Benefits of Mediterranean Diet",
+      "blogger_name": "Sarah Miller",
+      "image": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1453&q=80",
+      "description": "The Mediterranean diet has been consistently ranked as one of the healthiest diets in the world. Based on the traditional eating habits of countries bordering the Mediterranean Sea, this diet emphasizes fruits, vegetables, whole grains, beans, nuts, legumes, olive oil, and flavorful herbs and spices. Research shows it can help with weight loss, improve heart health, stabilize blood sugar levels, and even reduce the risk of certain cancers.",
+      "date": "2023-07-22T14:15:00Z"
+    },
+    {
+      "id": "3",
+      "category": "Sports",
+      "title": "2023 World Cup Predictions",
+      "blogger_name": "Mike Thompson",
+      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "description": "As the 2023 World Cup approaches, experts are weighing in on which teams have the best chance to lift the trophy. Brazil comes in as the favorite with their balanced squad and depth at every position. Defending champions France will be strong contenders again, while Argentina will be looking to send Lionel Messi into international retirement with the ultimate prize. Dark horses include Portugal and England, both with talented young squads.",
+      "date": "2023-08-05T09:45:00Z"
+    },
+    {
+      "id": "4",
+      "category": "Business",
+      "title": "Remote Work Trends in 2023",
+      "blogger_name": "Jessica Chen",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "description": "The remote work revolution continues to evolve in 2023. While some companies are pushing for return-to-office mandates, many employees are resisting, leading to a hybrid work compromise. New trends include four-day work weeks, asynchronous work models, and digital nomad policies. Companies that offer flexibility are seeing higher employee retention rates and access to global talent pools. This article examines the latest data on productivity, employee satisfaction, and the future of office spaces.",
+      "date": "2023-05-18T11:20:00Z"
+    },
+    {
+      "id": "5",
+      "category": "Entertainment",
+      "title": "Most Anticipated Movies of Summer 2023",
+      "blogger_name": "David Wilson",
+      "image": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "description": "This summer's movie lineup is packed with blockbusters and potential award contenders. Leading the pack is the latest installment in the Indiana Jones franchise, followed by Christopher Nolan's Oppenheimer and Greta Gerwig's Barbie. Marvel fans can look forward to Guardians of the Galaxy Vol. 3, while animation lovers have Spider-Man: Across the Spider-Verse to anticipate. We break down release dates, plot details, and early reviews for these and other major releases.",
+      "date": "2023-04-30T16:10:00Z"
+    },
+    {
+      "id": "6",
+      "category": "Science",
+      "title": "Breakthrough in Quantum Computing",
+      "blogger_name": "Dr. Emily Zhang",
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "description": "Scientists at MIT have achieved quantum supremacy with a 256-qubit quantum computer, solving in minutes what would take traditional supercomputers thousands of years. This breakthrough opens new possibilities in fields like cryptography, drug discovery, and climate modeling. The team overcame significant challenges in quantum error correction, a major hurdle in developing practical quantum computers. While commercial applications are still years away, this represents a major milestone in the quantum computing race.",
+      "date": "2023-07-10T13:25:00Z"
+    },
+    {
+      "id": "7",
+      "category": "Technology",
+      "title": "The Rise of Web3 and Decentralized Apps",
+      "blogger_name": "Ryan Park",
+      "image": "https://images.unsplash.com/photo-1639762681057-408e52192e55?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1632&q=80",
+      "description": "Web3 represents the next evolution of the internet, built on blockchain technology and decentralized protocols. Unlike Web 2.0 where data is controlled by tech giants, Web3 aims to give power back to users through decentralized applications (dApps). These applications run on peer-to-peer networks rather than centralized servers. Key areas seeing rapid development include decentralized finance (DeFi), non-fungible tokens (NFTs), and decentralized autonomous organizations (DAOs). While still in its early stages, Web3 has the potential to fundamentally change how we interact online.",
+      "date": "2023-06-28T15:50:00Z"
+    },
+    {
+      "id": "8",
+      "category": "Health",
+      "title": "Mental Health Benefits of Exercise",
+      "blogger_name": "Dr. Lisa Wong",
+      "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "description": "Regular physical activity is one of the most effective ways to improve mental health. Exercise releases endorphins that reduce perception of pain and trigger positive feelings. Studies show it can be as effective as medication for treating mild to moderate depression. Beyond mood improvement, exercise enhances cognitive function, reduces stress and anxiety, improves sleep quality, and boosts self-esteem. This article explores the neuroscience behind these benefits and provides practical tips for incorporating exercise into your mental health routine, even with a busy schedule.",
+      "date": "2023-05-05T08:40:00Z"
+    },
+   
+    {
+      "id": 1745233734961,
+      "category": "Technology",
+      "title": "Sony Alpha ZV-E10L 24.2 Mega Pixel",
+      "blogger_name": "punit",
+      "image": "https://m.media-amazon.com/images/I/71u7HJItZoL._SX679_.jpg",
+      "description": "Interchangeable-lens camera for vlogging\nLarge APS-C type 24.2-megapixel28 Exmor CMOS sensor\nDirectional 3-Capsule Mic supplied with wind screen\nFeatures designed for vloggers—Product Showcase Setting, Bokeh Switch, Still/Movie/S&Q button\nFlexible connectivity for easy sharing",
+      "date": "2025-04-21T11:08:54.961Z"
+    },
+    {
+      "id": 1745233867760,
+      "category": "Technology",
+      "title": "Garmin Venu Sq 2 GPS Smartwatch,",
+      "blogger_name": "karan",
+      "image": "https://m.media-amazon.com/images/I/71Q4F70cosL._SX522_.jpg",
+      "description": "See everything clearly with large, easy-to-read text on the bright AMOLED display that includes an always-on mode, perfect for quick glances.",
+      "date": "2025-04-21T11:11:07.760Z"
+    },
+    {
+      "id": 1745234267579,
+      "category": "Sports",
+      "title": "Boldfit Gym Bags",
+      "blogger_name": "vrushank",
+      "image": "https://m.media-amazon.com/images/I/61FfzM5o4DL._SX679_.jpg",
+      "description": "VERSATILE GYM AND TRAVEL BAG: The Boldfit Crossbody duffel bag for gym is designed for both men and women who need a reliable and stylish bag for the gym or travel. Featuring multiple compartments, it provides ample space for your workout gear, travel essentials, and more. Perfect for gym sessions, weekend trips, or daily commutes, this duffel bags for gym ensures you stay organized and prepared wherever you go.",
+      "date": "2025-04-21T11:17:47.579Z"
+    }
+  ]
+}
