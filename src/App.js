@@ -46,7 +46,7 @@ function App() {
   return (
     <Router>
       <div className="app-container">
-        <nav className="navbar navbar-expand-lg navbar-dark bg-primary mb-4">
+        <nav className="navbar navbar-expand-lg navbar-dark bg-dark mb-4">
           <div className="container">
             <Link className="navbar-brand" to="/">Blog App</Link>
             <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
